@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/momsbell/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/momsbell/static/js/main.91e9f7e9.chunk.js",
+    "main.js.map": "/momsbell/static/js/main.91e9f7e9.chunk.js.map",
+    "runtime-main.js": "/momsbell/static/js/runtime-main.f04db6d7.js",
+    "runtime-main.js.map": "/momsbell/static/js/runtime-main.f04db6d7.js.map",
+    "static/js/2.828f9ce2.chunk.js": "/momsbell/static/js/2.828f9ce2.chunk.js",
+    "static/js/2.828f9ce2.chunk.js.map": "/momsbell/static/js/2.828f9ce2.chunk.js.map",
+    "index.html": "/momsbell/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/momsbell/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.828f9ce2.chunk.js.LICENSE.txt": "/momsbell/static/js/2.828f9ce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04db6d7.js",
+    "static/js/2.828f9ce2.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.91e9f7e9.chunk.js"
+  ]
+}
